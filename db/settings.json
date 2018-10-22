@@ -1,7 +1,7 @@
 {
   "host"     : "localhost",
-  "user"     : "root",
-  "password" : "",
+  "user"     : "admin",
+  "password" : "b1dd0b70bfb062b07dde0b3f6851e7be76b3f813be1c09e8",
   "database" : "transport",
   "multipleStatements": true
 }
