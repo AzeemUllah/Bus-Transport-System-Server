@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31b99f7c-9513-4b49-a059-c3230d2517e7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/www" afterPath="$PROJECT_DIR$/bin/www" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/settings.json" afterPath="$PROJECT_DIR$/db/settings.json" />
-    </list>
+    <list default="true" id="31b99f7c-9513-4b49-a059-c3230d2517e7" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -651,12 +646,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540136816176</updated>
       <workItem from="1540136817591" duration="2563000" />
-      <workItem from="1540195501877" duration="7913000" />
+      <workItem from="1540195501877" duration="8510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10476000" />
+    <option name="totallyTimeSpent" value="11073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="3" width="1370" height="732" extended-state="0" />
